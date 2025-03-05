@@ -1,4 +1,4 @@
-Pharmacy Management System in C language. <h1>
+<h1>Pharmacy Management System in C language. </h1>
 
  • Designed a comprehensive Pharmacy Billing System for managing inventory, generating customer bills, and reporting sales data. Enhanced operational efficiency by 30% through features for adding, editing, and sorting
  medicines.
